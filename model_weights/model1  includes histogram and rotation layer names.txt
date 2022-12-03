@@ -1,0 +1,8 @@
+heatmap = make_gradcam_heatmap(
+            img_array, model, last_conv_layer_name = "dropout_18",
+        classifier_layer_names = [
+        "flatten_4",
+        "dense_8",
+        "dropout_19",
+        "dense_9"
+        ])
