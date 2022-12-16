@@ -5,7 +5,13 @@
 
 # 2.Description
 * Number of Images =392 (Covid Positive Chest X-Ray Images = 196 , Normal Chest X-Ray Images =196)
-*
+* Dataset split into - train(72 %) , validation(20 %) , test (8 %)
+* Data augmentation to increase the training dataset (280 images) by about (x50 times).
+* Model used - CNN
+* Accuracy on Validation Set: 98.7%
+* Accuracy on Training Set:  95.4%
+
+
 
 
 
