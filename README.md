@@ -22,7 +22,20 @@
 
 # 6. Screenshot of the Interface
 
+### User interface:   <p>&nbsp;</p>
+![image](https://user-images.githubusercontent.com/66992402/208157317-b53d48c8-6fd5-499a-8846-4db73346ac3a.png) 
 
+### For covid positive prediction: <p>&nbsp;</p>
+![image](https://user-images.githubusercontent.com/66992402/208155739-9a5ec217-6412-41a6-8386-e64531d8cd76.png) 
 
-![image](https://user-images.githubusercontent.com/66992402/208155739-9a5ec217-6412-41a6-8386-e64531d8cd76.png)
+###  For covid negative prediction: <p>&nbsp;</p>
+![image](https://user-images.githubusercontent.com/66992402/208157665-05c9b74b-281e-4aba-a63e-8ffcb2ed9c84.png)
+
+ #### Releases <p>&nbsp;</p>
+ No releases  published
+ 
+ #### Packages <p>&nbsp;</p>
+ No packages published
+ 
+
 
