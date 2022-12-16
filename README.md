@@ -11,12 +11,16 @@
 * Accuracy on Validation Set: 98.7%
 * Accuracy on Training Set:  95.4%
 
+# 3. Model Summary
+![image](https://user-images.githubusercontent.com/66992402/208156773-2d44d2c0-859b-4e01-9db3-0b45334b23b1.png)
 
+# 4. Input/Output
+![image](https://user-images.githubusercontent.com/66992402/208156923-146a0bd5-2b56-4114-82ce-d02341b44317.png)
 
+# 5. Live Link 
+#### Link: </br>
 
-
-
-
+# 6. Screenshot of the Interface
 
 
 
